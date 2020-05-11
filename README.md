@@ -34,12 +34,12 @@ $ show measurements
 
 Debugging in InfluxDB Container:
 ```sh
-mosquitto_sub -v -h localhost -t '#'
+$ mosquitto_sub -v -h localhost -t '#'
 ```
 
 go to bash mqtt container's shell script:
 ```sh
-docker exec -i -t mqtt "bin/sh"
+$ docker exec -i -t mqtt "bin/sh"
 ```
 
 | Description | Link |
