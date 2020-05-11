@@ -45,3 +45,6 @@ $ docker exec -i -t mqtt "bin/sh"
 | Description | Link |
 | ------ | ------ |
 | telegraf json | https://github.com/influxdata/telegraf/tree/master/plugins/parsers/json |
+
+### Todos
+- Create docker-compose.yml
