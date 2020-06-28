@@ -48,3 +48,6 @@ $ docker exec -i -t mqtt "bin/sh"
 
 ### Todos
 - Create docker-compose.yml
+
+## Authors
+[Himmet  GENCER](https://www.linkedin.com/in/himmet-gencer-214b7020/)
